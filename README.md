@@ -271,7 +271,7 @@ You can build and run the docker using the following process:
 
 Cloning
 ```console
-git clone https://github.com/jantic/DeOldify.git DeOldify
+git clone https://github.com/cduguet/DeOldify.git DeOldify
 ```
 
 Building Docker
